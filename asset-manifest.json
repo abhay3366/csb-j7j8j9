@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://abhay3366.github.io/csb-j7j8j9/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://abhay3366.github.io/csb-j7j8j9/static/js/main.6df366d1.chunk.js",
+    "main.js.map": "https://abhay3366.github.io/csb-j7j8j9/static/js/main.6df366d1.chunk.js.map",
+    "runtime-main.js": "https://abhay3366.github.io/csb-j7j8j9/static/js/runtime-main.aea6e32c.js",
+    "runtime-main.js.map": "https://abhay3366.github.io/csb-j7j8j9/static/js/runtime-main.aea6e32c.js.map",
+    "static/js/2.ca3dc25b.chunk.js": "https://abhay3366.github.io/csb-j7j8j9/static/js/2.ca3dc25b.chunk.js",
+    "static/js/2.ca3dc25b.chunk.js.map": "https://abhay3366.github.io/csb-j7j8j9/static/js/2.ca3dc25b.chunk.js.map",
+    "index.html": "https://abhay3366.github.io/csb-j7j8j9/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://abhay3366.github.io/csb-j7j8j9/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ca3dc25b.chunk.js.LICENSE.txt": "https://abhay3366.github.io/csb-j7j8j9/static/js/2.ca3dc25b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aea6e32c.js",
+    "static/js/2.ca3dc25b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.6df366d1.chunk.js"
+  ]
+}
